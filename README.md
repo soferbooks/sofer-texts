@@ -9,6 +9,7 @@ per edition, the text shaped as Sefaria's own edition of that book, so it can be
 | Sefer | Files | What we did |
 |---|---|---|
 | Moreh BeEtzba (מורה באצבע), the Chida | [moreh-beetzba](moreh-beetzba) | `hebrew.json`: the Livorno 1842 text, vowelled (Dicta's Nakdan, checked word by word), with typing errors corrected (checked against Hebrew Wikisource's copy of the same printing), abbreviations written out, and sources added in round brackets (every quoted pasuk, Chazal, Zohar line and named book, each checked). `english.json`: a complete translation into contemporary English (modern Sefardi pronunciation), translated with AI and checked passage by passage against the Hebrew, with the same sources. |
+| Sefer HaHiggayon (ספר ההגיון), the Ramchal | [sefer-hahiggayon](sefer-hahiggayon) | `hebrew.json`: the Jerusalem 1948 text with its own nikud (public domain), its vowel and typing errors corrected, abbreviations written out, and sources added in round brackets. `english.json`: an elucidated translation in classic English (Sefardi pronunciation) - the literal words in bold, short explanations in plain type - translated with AI and checked phrase by phrase against the Hebrew. |
 
 ## Licence
 
